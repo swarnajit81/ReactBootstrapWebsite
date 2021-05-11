@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ReactBootstrapWebsite/static/css/main.baef87a2.chunk.css",
+    "main.js": "/ReactBootstrapWebsite/static/js/main.c541c4cd.chunk.js",
+    "main.js.map": "/ReactBootstrapWebsite/static/js/main.c541c4cd.chunk.js.map",
+    "runtime-main.js": "/ReactBootstrapWebsite/static/js/runtime-main.21369e0b.js",
+    "runtime-main.js.map": "/ReactBootstrapWebsite/static/js/runtime-main.21369e0b.js.map",
+    "static/css/2.20d2e197.chunk.css": "/ReactBootstrapWebsite/static/css/2.20d2e197.chunk.css",
+    "static/js/2.366a7e2a.chunk.js": "/ReactBootstrapWebsite/static/js/2.366a7e2a.chunk.js",
+    "static/js/2.366a7e2a.chunk.js.map": "/ReactBootstrapWebsite/static/js/2.366a7e2a.chunk.js.map",
+    "index.html": "/ReactBootstrapWebsite/index.html",
+    "static/css/2.20d2e197.chunk.css.map": "/ReactBootstrapWebsite/static/css/2.20d2e197.chunk.css.map",
+    "static/css/main.baef87a2.chunk.css.map": "/ReactBootstrapWebsite/static/css/main.baef87a2.chunk.css.map",
+    "static/js/2.366a7e2a.chunk.js.LICENSE.txt": "/ReactBootstrapWebsite/static/js/2.366a7e2a.chunk.js.LICENSE.txt",
+    "static/media/Customer Testimonial1.83898f07.png": "/ReactBootstrapWebsite/static/media/Customer Testimonial1.83898f07.png",
+    "static/media/Customer Testimonial2.eaf6ad5d.png": "/ReactBootstrapWebsite/static/media/Customer Testimonial2.eaf6ad5d.png",
+    "static/media/Customer Testimonial3.fcef228d.png": "/ReactBootstrapWebsite/static/media/Customer Testimonial3.fcef228d.png",
+    "static/media/Customer Testimonial4.c59846c6.png": "/ReactBootstrapWebsite/static/media/Customer Testimonial4.c59846c6.png",
+    "static/media/Hero Image 1.59d63809.png": "/ReactBootstrapWebsite/static/media/Hero Image 1.59d63809.png",
+    "static/media/Hero Image 2.57b948b3.png": "/ReactBootstrapWebsite/static/media/Hero Image 2.57b948b3.png",
+    "static/media/Hero Image 3.d131b072.png": "/ReactBootstrapWebsite/static/media/Hero Image 3.d131b072.png",
+    "static/media/Shape 1.4d79e782.png": "/ReactBootstrapWebsite/static/media/Shape 1.4d79e782.png",
+    "static/media/Shape 2.2c78c79d.png": "/ReactBootstrapWebsite/static/media/Shape 2.2c78c79d.png",
+    "static/media/driller.513246eb.png": "/ReactBootstrapWebsite/static/media/driller.513246eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21369e0b.js",
+    "static/css/2.20d2e197.chunk.css",
+    "static/js/2.366a7e2a.chunk.js",
+    "static/css/main.baef87a2.chunk.css",
+    "static/js/main.c541c4cd.chunk.js"
+  ]
+}
